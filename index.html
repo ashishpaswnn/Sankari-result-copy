@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sarkari Result 2.0</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🔔 Sarkari Result 2.0</h1>
+    <div class="filters">
+      <select id="categoryFilter">
+        <option value="all">All Categories</option>
+        <option value="defense">Defense</option>
+        <option value="railway">Railway</option>
+        <option value="banking">Banking</option>
+      </select>
+      <select id="stateFilter">
+        <option value="all">All States</option>
+        <option value="up">Uttar Pradesh</option>
+        <option value="bihar">Bihar</option>
+        <option value="delhi">Delhi</option>
+      </select>
+    </div>
+  </header>
+  <main id="jobList">
+    <div class="loading">Loading latest jobs...</div>
+  </main>
+
+  <script src="job-api.js"></script>
+</body>
+</html>
