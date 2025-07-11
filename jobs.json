@@ -1,0 +1,28 @@
+{
+  "jobs": [
+    {
+      "title": "SSC CGL Recruitment 2025",
+      "department": "Staff Selection Commission",
+      "category": "defense",
+      "state": "delhi",
+      "last_date": "2025-08-15",
+      "apply_link": "https://ssc.nic.in"
+    },
+    {
+      "title": "Railway Group D 2025",
+      "department": "Indian Railways",
+      "category": "railway",
+      "state": "bihar",
+      "last_date": "2025-08-22",
+      "apply_link": "https://rrb.gov.in"
+    },
+    {
+      "title": "SBI PO Recruitment 2025",
+      "department": "State Bank of India",
+      "category": "banking",
+      "state": "up",
+      "last_date": "2025-09-01",
+      "apply_link": "https://sbi.co.in"
+    }
+  ]
+}
